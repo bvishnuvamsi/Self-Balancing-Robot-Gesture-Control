@@ -1,7 +1,5 @@
-# RL-Based-Self-Balancing-Robot
-RL (PID) Based Self Balancing Robot
+# Self-Balancing-Robot---Gesture-Control
 
-[Live Demo](https://drive.google.com/file/d/14w7App6kejJkx6XtVEmv77z16gLZXv7F/view?usp=sharing)
+## Abstract
+A mini prototype of principal how robots balance and Segway’s works which is controlled by hand gestures through arduino and different sensors. Integration of different sensors and Provide control to users based on gestures for movement.
 
-![Gesture Remote](https://github.com/ManoharSai2000/RL-Based-Self-Balancing-Robot/blob/main/Remote.jpeg)
-![Robot](https://github.com/ManoharSai2000/RL-Based-Self-Balancing-Robot/blob/main/SBR-1.jpeg)
